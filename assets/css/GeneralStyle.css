@@ -1,0 +1,22 @@
+html {
+    font-family: 'Concert One', cursive;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+.Logo {
+    width: 80px;
+    height: 65px;
+}
+
+#TituloSystem {
+    background-color: black;
+}
